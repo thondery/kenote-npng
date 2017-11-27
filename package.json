@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "npng-js for kenote",
   "main": "index.js",
-  "repository": "https://github.com/thondery/kenote-npng.git",
+  "preferGlobal": true,
+  "repository": "https://github.com/thondery/kenote-upng.git",
   "author": "thondery <thondery@163.com>",
   "license": "MIT",
   "dependencies": {
@@ -14,5 +15,12 @@
     "is-png": "^1.1.0",
     "kenote-mount": "^1.0.1",
     "upng-js": "^2.0.0"
+  },
+  "bin": {
+    "node-upng": "./bin/index.js"
+  },
+  "engines": {
+    "node": ">=6.9.0",
+    "npm": ">=3.0.0"
   }
 }
