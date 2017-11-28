@@ -1,4 +1,4 @@
-# kenote-npng
+# kenote-upng
 
 npng-js for kenote
 

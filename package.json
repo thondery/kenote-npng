@@ -1,6 +1,6 @@
 {
-  "name": "kenote-npng",
-  "version": "1.0.0",
+  "name": "kenote-upng",
+  "version": "1.0.1",
   "description": "npng-js for kenote",
   "main": "index.js",
   "preferGlobal": true,
